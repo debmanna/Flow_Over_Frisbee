@@ -1,5 +1,6 @@
 # Flow_Over_Frisbee
 
-I am modelling the flow around a frisbee at an AoA 5deg and 15deg and trying to understand its flow physics.
-
+Modelling the flow around a frisbee at an AoA 5deg and 15deg and understand its flow physics.  
 The content will be updated as the work progresses.
+
+#### Used inhouse FEM solver of Prof. Sanjay Mittal
